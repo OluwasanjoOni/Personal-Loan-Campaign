@@ -4,7 +4,7 @@
 ### Component of the Personal-Loan-Campaign
 - This project is about how to build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.
 ### Training the Machine Learning Model
-- I recommend you that you create a python3 virtual environment, run the command and activate it
+- I recommend that you create a python3 virtual environment, run the command and activate it
 1. Launch the jupyter notebook
 2. Install and import the required packages
 3. Before training the model, I select the label from the features
