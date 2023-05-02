@@ -8,7 +8,7 @@
 1. Launch the jupyter notebook
 2. Install and import the required packages
 3. Before training the model, I select the label from the features
-4. Split the data into training and test data
+4. Split the data into training data and test data
 5. Scale the training data to have the mean of 0 and standard deviation of 1
 6. Next is to train the model.
 7. Evaluate the model performance using the metrics from scikit-learn
