@@ -13,3 +13,8 @@
 6. Next is to train the model.
 7. Evaluate the model performance using the metrics from scikit-learn
 8. Lastly carry out the validation using the test data.
+9. Try different model with the algorithm optimisation
+10. Correct data imbalance using SMOTE and evaluate model performance again.
+### Conclusion
+Gradient Boosting Classifier with 98% on the training data and 97% on the test data will be deployed. This means 97% of the time, the model will correctly predict the liability
+customers that will buy personal loans.
